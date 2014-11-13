@@ -1,6 +1,28 @@
 /* Your Website Styles */
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #7F0000;
+	background: url(../img/dark_Tire.png);
+	font-size: 20px;
+}
 
+h1 {
+	color: #DF0000;
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Sigmar One', cursive;
+}
 
+h3 {
+	color: #AF0000;
+	font-size: 30px;
+	font-family: 'Sigmar One', cursive;
+}
+
+img {
+	width: 300px;
+	margin: 10px;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
